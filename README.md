@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Kafka
+- 🔭 I’m currently working on Backend Development
+- 🌱 I’m currently learning Java,Golang,Nodejs
 - :hammer: my blog: https://www.xuechuyang.cn/
 - 🤔 I’m looking for anyone who is interested in Backend Development
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=neowho&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
